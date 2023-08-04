@@ -1,3 +1,5 @@
+#This program is an example of an object-oriented program-
+#which contains the information of the employees of a hypothetical company
 class company:
     count = 0
     def __init__(self, name, age, level_of_education, gender):
@@ -38,3 +40,5 @@ Isabella.get_age()
 Isabella.get_loe()
 Isabella.get_gender()
 Isabella.get_info()
+
+
